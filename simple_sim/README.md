@@ -17,4 +17,4 @@ First, the Jacobian matrix is calculated, then simulated.
 
 to find out about the example information, refer to the [photo](https://github.com/MasoudMahanian/Dynamic-and-Control-classes-settings/blob/main/simple_sim/pic/Screenshot%20(3).png).
 
-Click on the video [link]((https://drive.google.com/file/d/1QczPEYK8vZ_GgQmiS2mkMY9p6aRgHr4y/view?usp=drive_link)https://drive.google.com/file/d/1QczPEYK8vZ_GgQmiS2mkMY9p6aRgHr4y/view?usp=drive_link) to learn in Farsi language.
+Click on the video [link](https://drive.google.com/file/d/1QczPEYK8vZ_GgQmiS2mkMY9p6aRgHr4y/view?usp=drive_link) to learn in Farsi language.
